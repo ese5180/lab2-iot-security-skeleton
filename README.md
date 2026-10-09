@@ -11,8 +11,6 @@ ESE5180: IoT Wireless, Security, & Scaling
 
 **GitHub Repository URL:**
 
-Lab dependencies: https://github.com/ese5180/ESE5180-Lab-Dependencies
+**Lab dependencies:** https://github.com/ese5180/ESE5180-Lab-Dependencies
 
-## 1 Implementing Our Own Security
 
-## 2 Encryption Speed and Memory Tradeoffs
